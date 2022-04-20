@@ -1,0 +1,30 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lub-bee/test-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lub-bee/test-repo/issues"
+  },
+  "homepage": "https://github.com/lub-bee/test-repo#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.4",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.24"
+  },
+  "dependencies": {
+    "postcss-cli": "^9.1.0"
+  }
+}
